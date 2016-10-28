@@ -60,7 +60,10 @@ namespace SoundBoard
 			public const int miss_doyle = 2130837508;
 			
 			// aapt resource value: 0x7f020005
-			public const int ted = 2130837509;
+			public const int soundIcon = 2130837509;
+			
+			// aapt resource value: 0x7f020006
+			public const int ted = 2130837510;
 			
 			static Drawable()
 			{
@@ -108,7 +111,19 @@ namespace SoundBoard
 		{
 			
 			// aapt resource value: 0x7f040000
-			public const int ted = 2130968576;
+			public const int bishop_brennan = 2130968576;
+			
+			// aapt resource value: 0x7f040001
+			public const int father_dougal = 2130968577;
+			
+			// aapt resource value: 0x7f040002
+			public const int father_jack = 2130968578;
+			
+			// aapt resource value: 0x7f040003
+			public const int mrs_doyle = 2130968579;
+			
+			// aapt resource value: 0x7f040004
+			public const int ted = 2130968580;
 			
 			static Raw()
 			{
